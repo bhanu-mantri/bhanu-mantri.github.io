@@ -1,1 +1,25 @@
-testing...
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "S53TR74835.com.athelas.scribe.Athelas-Scribe"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "S53TR74835.com.athelas.scribe.Athelas-Scribe"
+    ]
+  }
+}
